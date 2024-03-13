@@ -1,0 +1,21 @@
+
+body{
+ 
+background: rgba(139, 73, 133, 1.0);
+background: linear-gradient(90deg, rgba(139, 73, 133, 1.0), rgba(191, 199, 180, 1.0));
+ 
+}
+.box{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.main-heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-style: italic;
+  background: linear-gradient(20deg, red, green , blue , pink );
+  color: transparent;
+  background-clip: text;
+  font-weight: bolder;
+}
+
